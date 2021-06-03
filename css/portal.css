@@ -5,8 +5,8 @@
 html {
     background-color: red;
     font-family: monospace;
-    font-size: 1.95em;
-    line-height: 1.9em;
+    font-size: 0.95em;
+    line-height: 0.9em;
 }
 
 ::selection {
