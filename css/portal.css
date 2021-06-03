@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 0.95em;
-    line-height: 1.5em;
+    background-color: red;
+    font-family: monospace;
+    font-size: 1.95em;
+    line-height: 1.9em;
 }
 
 ::selection {
@@ -22,7 +22,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: lightblue;
     overflow: auto;
 }
 
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:green;
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: lightblue;
+    background-color: lightpink;
     text-decoration: none;
 }
 
