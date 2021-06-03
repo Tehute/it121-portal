@@ -4,9 +4,9 @@
 
 html {
     background-color: lightblue;
-    font-family: monospace;
-    font-size: 1.95em;
-    line-height: 1.9em;
+    font-family: 'Quicksand', monospace;
+    font-size: 0.95em;
+    line-height: 1.5em;
 }
 
 ::selection {
@@ -22,7 +22,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: lightblue;
+    background-color: white;
     overflow: auto;
 }
 
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:lightblue;
+    color:darkcyan;
     text-decoration: none;
 }
 
 a:hover {
-    color: lightblue;
-    background-color: lightpink;
+    color: whitesmoke;
+    background-color: darkcyan;
     text-decoration: none;
 }
 
