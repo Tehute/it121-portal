@@ -1,4 +1,3 @@
 # portal-it115
-An example portal page
 
-Please feel free to use the HMTL/CSS and JS in this repo as you wish!
+06/03/2021 Tehut updatded the index.html, CSS and Image file
